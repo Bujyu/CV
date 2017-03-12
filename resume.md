@@ -1,9 +1,9 @@
 * Education
-  1. Tatung University
-     Department of computer science
+  1. Tatung University  
+     Department of computer science  
      BS 2009/09-2013/08
   2. National Tsin Hua University  
-     Department of Computer Science
+     Department of Computer Science  
      MS 2013/09-2015/08
        
 * Skills
