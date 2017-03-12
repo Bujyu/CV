@@ -2,6 +2,7 @@
   1. Tatung University  
      Department of computer science  
      BS 2009/09-2013/08
+	 
   2. National Tsin Hua University  
      Department of Computer Science  
      MS 2013/09-2015/08
@@ -13,6 +14,7 @@
   - In BS
     1. Implementation and accerelating Radiosity algorithm 
 	2. Multi-step rendering using Radiosity and Ray-tracing
+	
   - In MS
     1. Implementation and accerelating haze removal algorithm using CUDA
 	2. The task manager of Cloud Video Services, using GNU Parallel and Thread Pool in C++
