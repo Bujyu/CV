@@ -8,11 +8,11 @@
   - C, C++, CUDA, Git, Linux
 
 # Projects
-    1. Implementation and accerelating Radiosity algorithm 
-    2. Multi-step rendering using Radiosity and Ray-tracing 
-    3. Implementation and accerelating haze removal algorithm using CUDA
-    4. The task manager of Cloud Video Services, using GNU Parallel and Thread Pool in C++
-    5. High Performance HEVC Motion Estimation on GPU 
+  1. Implementation and accerelating Radiosity algorithm 
+  2. Multi-step rendering using Radiosity and Ray-tracing 
+  3. Implementation and accerelating haze removal algorithm using CUDA
+  4. The task manager of Cloud Video Services, using GNU Parallel and Thread Pool in C++
+  5. High Performance HEVC Motion Estimation on GPU 
 
 # Publications
   - Conference and Workshop
