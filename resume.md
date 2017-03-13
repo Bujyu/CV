@@ -5,8 +5,8 @@
      September 2013 - August 2015 
     
 ## Skills
-  - ProficiantC
-  - Familiar with C++, CUDA, Git and Linux 
+  - Familiar with C, C++, CUDA, Git
+  - Familiar with Linux development environment
 
 ## Projects
   * B.S.
