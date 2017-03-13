@@ -1,0 +1,106 @@
+% THIS IS AN EXAMPLE DOCUMENT FOR VLDB 2010
+% based on ACM SIGPROC-SP.TEX VERSION 2.7
+% Modified by  Gerald Weber <gerald@cs.auckland.ac.nz>
+
+
+% This example *does* use the .bib file (from which the .bbl file
+% is produced). REMEMBER HOWEVER: After having produced the .bbl file,
+% and prior to final submission, you need to 'insert'  your .bbl file into
+% your source .tex file so as to provide ONE 'self-contained' source file.
+
+
+\documentclass[a4paper,12pt]{report}
+\renewcommand{\baselinestretch}{1.5}
+%\usepackage[linesnumbered,boxed]{algorithm2e}
+\usepackage{algpseudocode}
+\usepackage{graphicx}
+\usepackage{verbatim}
+\usepackage{latexsym}
+\usepackage{subfigure}
+%\usepackage{subfig} % Not compatible with caption
+\usepackage{color}
+
+\usepackage{float}
+\usepackage{indentfirst}
+\usepackage{wallpaper}
+\usepackage{pdfpages}
+\usepackage{multirow}
+%\usepackage{pdfpages}
+%\usepackage{hyperref}
+\usepackage{CJK}
+
+\usepackage{url}
+\usepackage{appendix}
+\usepackage{epstopdf} % Avoid miktek error that can't read eps
+
+\usepackage{fancyhdr}
+
+%set paper size
+\special{papersize=8.5in,11in}
+\topmargin=14.7mm    %bottom margin 14.7mm
+\oddsidemargin=30mm   %left & right margin 17.45mm
+
+%text sizes (Keep these values unchanged!)
+\textwidth=150mm \textheight=250mm
+\columnsep=5.0mm
+\parindent=3.5mm
+
+%misc parameters
+\headsep=0mm  \headheight=0mm \footskip=18mm
+
+%conversion to values for LaTeX
+\advance\topmargin-1in\advance\oddsidemargin-1in
+\evensidemargin\oddsidemargin
+
+% For Header&Footer
+\fancyhf{}
+\fancyhead[C]{} % No header
+\fancyfoot[R]{Last update:Mar 2017}
+\renewcommand\headrulewidth{0pt}
+\pagestyle{fancy}
+
+\begin{document}
+
+{\Large \textbf{Education}}\hrulefill
+\begin{itemize}
+	\item B.S. in Computer Science \hfill Sep 2009 - Aug 2013\\
+	Tatung University
+	\item M.S. in Computer Science \hfill Sep 2013 - Aug 2015\\
+	National Tsin Hua University
+	
+\end{itemize}
+\vspace{3mm}
+
+{\Large \textbf{Skills}}\hrulefill
+\begin{itemize}
+	\item Familiar with C, C++, CUDA, Git and Linux
+\end{itemize}
+\vspace{3mm}
+
+{\Large \textbf{Projects}}\hrulefill
+\begin{itemize}
+	\item \textbf{B.S.} % B.S.
+	\begin{enumerate}
+		\item Accelerating Radiosity algorithm using hemi-cube approach 
+		\item Multi-step rendering using Radiosity and Ray-tracing 
+	\end{enumerate}
+	\item \textbf{M.S.} % M.S.
+	\begin{enumerate}
+		\item Accelerating haze removal algorithm using GPU 
+		\item Task manager of Cloud Video Services using GNU Parallel and Thread Pool
+		\item Accelerating HEVC Motion Estimation using GPU 
+	\end{enumerate}
+\end{itemize}
+\vspace{3mm}
+
+{\Large \textbf{Publications}}\hrulefill
+\begin{itemize}
+	\item \textbf{Conference and Workshop}
+	\begin{enumerate}
+		\item \emph{Hao-Che Kao}, I-Ching Wang, Che-Rung Lee, Chi-Wen Lo, Hao-Ping Kang, Accelerating HEVC Motion Estimation Using GPU, IEEE BigMM 2016
+		\item \emph{Hao-Che Kao}, Hao-Ping Kang, Che-Rung Lee, Kun-Hsien Lu, Shu-Hsin Chang Achieving Cost Effective Cloud Video Services via Fine Grained Multicore Scheduling, ICPADS 2014	
+	\end{enumerate}
+\end{itemize}
+\vspace{3mm}
+
+\end{document}

@@ -14,10 +14,13 @@
     2. Multi-step rendering using Radiosity and Ray-tracing 
   * M.S.
     1. Accelerating haze removal algorithm using GPU 
-    2. The task manager of Cloud Video Services using GNU Parallel and Thread Pool in C++
+    2. The task manager of Cloud Video Services using GNU Parallel and Thread Pool
     3. Accelerating HEVC Motion Estimation using GPU 
 
 ## Publications
   - Conference and Workshop
     1. *Hao-Che Kao*, I-Ching Wang, Che-Rung Lee, Chi-Wen Lo, Hao-Ping Kang, Accelerating HEVC Motion Estimation Using GPU, IEEE BigMM 2016
     2. *Hao-Che Kao*, Hao-Ping Kang, Che-Rung Lee, Kun-Hsien Lu, Shu-Hsin Chang Achieving Cost Effective Cloud Video Services via Fine Grained Multicore Scheduling, ICPADS 2014
+	
+	
+	Last update 2017/03/12
